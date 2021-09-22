@@ -1,0 +1,10 @@
+click
+cmake
+dlib
+face-recognition
+Face-recognition-models
+numpy
+opencv-python
+Pillow
+pip
+setuptools
